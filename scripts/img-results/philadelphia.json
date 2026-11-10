@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "Philadelphia sushi roll with salmon and cream cheese close up dark background",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/70913ec1b31c.jpg",
+      "caption": "Salmon sushi rolls with cream cheese and tobiko on dark background. Contains Dreamstime watermarks and ID text \"ID 261488763 © Andrii Lysenko\".",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1514px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f8fb73fadaae.jpeg",
+      "caption": "A close-up of fresh salmon sushi rolls with cucumber, rice, roe, sesame seeds, and wasabi on a dark plate; high visual impact, no text, no watermarks. Suitable for background image.",
+      "source": "Pexels",
+      "original_width": "7718px",
+      "original_height": "5148px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4db5f9991aa7.jpg",
+      "caption": "A close-up sushi roll with orange roe, avocado, and crab stick held by wooden chopsticks on black background; no text, high clarity — suitable for background image.",
+      "source": "Condé Nast Traveller India",
+      "original_width": "2112px",
+      "original_height": "1188px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/97247baa7d2c.jpg",
+      "caption": "Salmon-topped sushi rolls on a green leaf with pickled ginger, wasabi, and chopsticks on a dark stone background; high clarity, visually striking, suitable for background image.",
+      "source": "www.kirakujapaneserestaurantny.com",
+      "original_width": "3000px",
+      "original_height": "2000px"
+    }
+  ]
+}

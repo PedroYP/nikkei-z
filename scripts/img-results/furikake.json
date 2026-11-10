@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "crispy rice sushi with spicy salmon topping japanese",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0bb6772c0882.jpg",
+      "caption": "Crispy rice bites topped with spicy salmon tartare, avocado, jalapeño slices, and sesame seeds on white plate. Suitable for background image",
+      "source": "A Cozy Kitchen",
+      "original_width": "1200px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0e3cc440abfe.jpg",
+      "caption": "Crispy rice bites topped with avocado, seared salmon, spicy mayo, and sesame seeds on a ceramic plate. Suitable for background image.",
+      "source": "Something Nutritious",
+      "original_width": "1920px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/936bb85a7bdc.jpg",
+      "caption": "Crispy sushi rice cakes topped with avocado, spicy tuna, sesame seeds, and jalapeño slices, photographed close-up against soft blue background; high clarity, strong visual impact. suitable for background image",
+      "source": "RecipeTin Eats",
+      "original_width": "900px",
+      "original_height": "1125px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c6d87242649.jpg",
+      "caption": "Crispy sushi bites topped with avocado, spicy mayo, jalapeño, and sesame seeds on a blue ceramic plate. suitable for background image",
+      "source": "Something Nutritious",
+      "original_width": "1920px",
+      "original_height": "2560px"
+    }
+  ]
+}

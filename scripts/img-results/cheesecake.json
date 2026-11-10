@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "japanese matcha cheesecake slice on dark plate",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db64ff23d850.jpg",
+      "caption": "A slice of carrot cake cheesecake with green matcha frosting sits on a white plate on a wooden table. Suitable for background image.",
+      "source": "Okonomi Kitchen",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/38cea6b34566.jpeg",
+      "caption": "A slice of matcha burnt Basque cheesecake on a gold-rimmed blue plate, whole cake on parchment paper behind, wooden fork, no text, no watermarks. Suitable for background image.",
+      "source": "modern asian baking",
+      "original_width": "1333px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/855f537c034a.jpg",
+      "caption": "Matcha mille crepe cake with cream dollops on rustic plates, golden fork, cozy home setting; no watermarks. Suitable for background image",
+      "source": "Teak & Thyme",
+      "original_width": "1600px",
+      "original_height": "2399px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c39d5339a726.jpg",
+      "caption": "Slices of matcha cheesecake on black plate and white surface, bamboo whisk, and small bowl of green matcha powder. No text, clear image, no watermark, suitable for background image",
+      "source": "Niko Neko Matcha",
+      "original_width": "2160px",
+      "original_height": "957px"
+    }
+  ]
+}

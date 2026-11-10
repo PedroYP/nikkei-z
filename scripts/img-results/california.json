@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "California sushi roll with tobiko roe close up dark plate",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b86d152c4d4.jpeg",
+      "caption": "A gunkan sushi wrapped in dark seaweed, topped with glossy orange fish roe and a yellow quail egg, on a white dotted plate. Suitable for background image.",
+      "source": "Reddit",
+      "original_width": "2424px",
+      "original_height": "1818px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/52237b0f93be.webp",
+      "caption": "Vibrant sushi rolls with red tobiko coating, avocado, and orange sauce on white plate, garnished with ginger and wasabi. No text or watermarks. Suitable for background image.",
+      "source": "CaviarHub",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c04221660181.webp",
+      "caption": "Close-up of sushi rolls topped with bright orange fish roe, mayonnaise, and tuna on a bamboo mat; no watermark, high clarity, visually striking. Suitable for background image.",
+      "source": "CaviarHub",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d8fea83bfe1.png",
+      "caption": "An overhead flat-lay of Japanese dishes topped with vibrant orange salmon roe: noodles, sushi bowls, croquettes, and seaweed rice squares. Suitable for background image.",
+      "source": "Caviar Lover",
+      "original_width": "1024px",
+      "original_height": "1536px"
+    }
+  ]
+}

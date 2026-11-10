@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "dorayaki japanese pancake dessert with cream",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bc6b456e784c.jpg",
+      "caption": "A golden dorayaki pancake sandwich filled with creamy green matcha filling, on parchment paper. High clarity, no text, no watermark: suitable for background image.",
+      "source": "Lil' Cookie",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/90bbed4c5ff4.jpg",
+      "caption": "Two golden dorayaki pancakes with red bean filling on a ceramic plate, with matcha drinks and a ceramic pitcher nearby.",
+      "source": "Jaja Bakes",
+      "original_width": "800px",
+      "original_height": "1203px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/730d618bfeed.jpg",
+      "caption": "Golden-brown stuffed pancakes (apam balik) with jam filling on a rustic wooden board, with a small sauce bowl, high clarity, no text or watermarks, suitable for background image.",
+      "source": "EnVols",
+      "original_width": "2000px",
+      "original_height": "1335px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1c7d44d4b7a1.jpg",
+      "caption": "Hands holding a plate with dorayaki (red bean pancakes), contains watermark \"sudachi\" logo and text \"How to Make DORAYAKI\".",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

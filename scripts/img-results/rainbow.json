@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "rainbow sushi roll with colorful fish slices close up",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/53f3f1b1a22b.jpg",
+      "caption": "Close-up colorful sushi roll with avocado, tuna, salmon, sesame rice on wooden board; Dreamstime watermarks and ID 277916416 present.",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1295px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/699e1313f43a.jpeg",
+      "caption": "A white plate holds fresh sushi topped with salmon, tuna, shrimp, avocado, and pickled ginger, beside a potted plant.",
+      "source": "Reddit",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/665ba7b7bfa2.jpg",
+      "caption": "Sushi rolls topped with sliced avocado and spicy salmon filling, arranged diagonally on a white rectangular plate; no text, no watermark, high clarity.\n\nsuitable for background image",
+      "source": "Green Wave Sushi",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e634c1a77bbf.jpg",
+      "caption": "Four sushi rolls with avocado, salmon, tuna, and cucumber fillings on a clean white background, high clarity, no text. Suitable for background image.",
+      "source": "Moms Who Think",
+      "original_width": "1500px",
+      "original_height": "814px"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+// SUMI · Maki & Nikkei Bar — esquema de pedidos
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./db/custom.db"
+}
+
+model Order {
+  id           Int      @id @default(autoincrement())
+  code         String   @unique
+  customerName String
+  phone        String
+  address      String
+  deliveryMode String // delivery | pickup
+  payment      String // yape | tarjeta | efectivo
+  notes        String?
+  total        Float
+  items        String // JSON [{slug, qty}]
+  status       String   @default("recibido")
+  createdAt    DateTime @default(now())
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "chicha morada purple corn peruvian drink glass",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2dcd3e072ceb.jpg",
+      "caption": "A glass of dark red juice (hibiscus/chicha) garnished with a lime slice, on a blue wooden surface against a white wood backdrop. Contains Alamy watermark and text: \"alamy\", \"Image ID: 2FWJ8MF\", \"www.alamy.com\".",
+      "source": "Alamy",
+      "original_width": "698px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/722ac14b1e69.jpg",
+      "caption": "Video still with \"global kitchen travels\" logo; text reads \"Chicha Morada: Peruvian Purple Corn Drink\"; hand pouring purple drink into glasses.",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ebc342caefb2.jpg",
+      "caption": "Two glasses of red sangria with fruit chunks, ice, and cinnamon sticks on a teal napkin over rustic wood. No text, no watermarks; high clarity and strong visual impact. Suitable for background image.",
+      "source": "Simmer + Sauce",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aa794aa362c3.jpg",
+      "caption": "Cartoon illustration of purple corn, a glass of purple drink (chicha morada), and a lime slice; contains Alamy watermarks and text.",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1113px"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "fresh passion fruit juice in glass with ice and mint dark background",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ef3fca77df91.jpg",
+      "caption": "A plastic cup of iced mango passion fruit juice with black straw, whole and diced mango, halved passion fruit, green leaves, isolated on white background with Dreamstime watermarks.",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb3fc5a33a5a.jpg",
+      "caption": "A glass of fresh orange passion fruit juice beside a whole passion fruit on a wooden surface. Contains watermark text \"ATTAINABLE Sustainable\".",
+      "source": "Attainable Sustainable",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/562b9c4796f9.jpg",
+      "caption": "This is a Shutterstock promotional ad with watermarks, containing text: \"We have great content,\" \"Sign up and get started today!\", contact number, and a photo of smiling colleagues with a laptop.",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1227px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0eaa3deb118f.jpg",
+      "caption": "A tall glass filled with yellow beverage and ice cubes, clean white background, no text, high clarity. Suitable for background image.",
+      "source": "Harney & Sons Fine Teas",
+      "original_width": "1110px",
+      "original_height": "1272px"
+    }
+  ]
+}

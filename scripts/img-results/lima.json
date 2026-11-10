@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "Miraflores Lima Peru coastline malecon sunset",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1960e66badc7.jpg",
+      "caption": "A coastal cityscape with cliffs, purple bougainvillea flowers, ocean waves, beach, and buildings under clear blue sky; no watermarks; high clarity — suitable for background image.",
+      "source": "Rexby",
+      "original_width": "1200px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bc74d7feefa0.jpg",
+      "caption": "Vibrant pink bougainvillea flowers in foreground overlook a coastal highway, cliffs, and ocean cityscape under hazy sky; no watermarks. Suitable for background image",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b862184c24f.jpg",
+      "caption": "Vivid sunset over ocean coastline with lighthouse, city skyline, and light trails on cliffside road; no text or watermarks.\n\nsuitable for background image",
+      "source": "Exoticca",
+      "original_width": "1379px",
+      "original_height": "600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5694d7edf8f8.jpg",
+      "caption": "Shutterstock promotional ad featuring smiling coworkers at a laptop; contains watermarks and logos. Text: \"We have great content,\" \"Tell your story with compelling images, videos, and music. Access our library of over 500 million high-quality assets,\" \"Sign up and get started today!,\" \"Contact us: 1-866-663-3954.\"",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1100px"
+    }
+  ]
+}

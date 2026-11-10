@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "passion fruit maracuya juice glass fresh",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9a71ba74fe85.jpg",
+      "caption": "Pitcher and glass of orange passion fruit juice with ice, fresh passion fruits behind; watermark \"DOMINICANCOOKING.COM COCINADOMINICANA.COM\" present.",
+      "source": "Dominican Cooking",
+      "original_width": "1799px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5c7b62b87614.jpg",
+      "caption": "Nilo Passion Fruit juice can beside a glass of yellow juice with fresh passion fruits on marble surface. Text includes: \"NO SUGAR ADDED\", \"Nilo\", \"SOURCE OF LIFE\", \"PASSION FRUIT\", \"100% SQUEEZED JUICE\", \"WITH MANGO PULP!\", \"Vitamin C\". High clarity, strong visual appeal, suitable for background image.",
+      "source": "Amazon.com",
+      "original_width": "2500px",
+      "original_height": "2500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f8dde236b8d.jpg",
+      "caption": "Product image of Namai Fresh Passion Fruit Juice can (320ML) with 24-pack case, white background, contains text.",
+      "source": "Amazon.com",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/329fb6da3486.jpg",
+      "caption": "A halved passion fruit with juicy seeds sits on green leaves beside whole passion fruits on white background. Contains Alamy watermarks; not suitable for background.",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    }
+  ]
+}

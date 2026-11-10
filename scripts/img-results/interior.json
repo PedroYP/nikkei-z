@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "elegant dark japanese restaurant interior wooden counter",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8739dbfeb1fb.jpg",
+      "caption": "Collage of two photos showing a dark, modern Japanese restaurant interior with corrugated metal ceilings, lanterns, and Chinese/Japanese signage (酒, 轻食). High visual impact, no watermark — suitable for background image",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1603px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4dc9bf04f1e3.jpg",
+      "caption": "A stylish teal and gold bar interior with patterned wallpaper, pendant lights, blue stools, liquor shelves, and a framed surrealist painting.",
+      "source": "Interior Design Magazine",
+      "original_width": "1500px",
+      "original_height": "1001px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7eb174934382.jpg",
+      "caption": "Modern restaurant interior with dramatic white sculptural ceiling installation, brick columns, bar shelves of bottles, and staff. Suitable for background image",
+      "source": "Homedit",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b53b629d191.jpg",
+      "caption": "Warm-lit Japanese restaurant interior with wooden sushi bar, chairs, open kitchen, decorative lattice panels, staff working. Suitable for background image.",
+      "source": "www.ootoya.us",
+      "original_width": "1920px",
+      "original_height": "1920px"
+    }
+  ]
+}

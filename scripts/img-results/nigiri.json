@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "salmon nigiri sushi dark moody photography",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3292123ace5a.jpg",
+      "caption": "A dark, elegant sushi platter featuring tuna, salmon, scallop nigiri, maki rolls, gunkan, wasabi, and pickled ginger. suitable for background image",
+      "source": "黑哥AI黑哥AI",
+      "original_width": "1024px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c7b521cf5dbe.jpg",
+      "caption": "Salmon nigiri and sushi rolls on slate platter with soy sauce, ginger, wasabi; blurred restaurant background. Contains dreamstime.com watermarks and \"ID 450766347 © Dmyntri Syrota\".",
+      "source": "Dreamstime",
+      "original_width": "909px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1926d6ed6253.jpg",
+      "caption": "Three pieces of sushi rest on a chef's knife atop a black textured plate against a dark wooden background. No text. suitable for background image",
+      "source": "Pinterest",
+      "original_width": "675px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cfee1b01a264.jpg",
+      "caption": "A colorful sashimi platter with salmon, tuna, octopus, lemon slices, and garnishes on a white rectangular plate over a wooden counter.",
+      "source": "sushimodo.restaurants-us.com",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

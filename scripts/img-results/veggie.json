@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "vegetable sushi roll with avocado mango close up",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c76fc377bd77.jpg",
+      "caption": "Collage of vegan sushi photos with text \"VEGAN SUSHI KeyToMyLime.com\" and logo watermark; contains text overlay.",
+      "source": "Key To My Lime",
+      "original_width": "600px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/04f97e127a47.jpg",
+      "caption": "Fresh vegetable rice paper spring rolls filled with carrots, avocado, cabbage, and black sesame seeds, arranged on a cream plate. High clarity, no watermark, strong visual appeal, suitable for background image.",
+      "source": "Vibrant plate",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/df939df4eca4.jpg",
+      "caption": "Overhead photo of avocado sushi hand rolls with nori, rice, lime wedges, and seasoned soy sauce, high clarity, no text, suitable for background image.",
+      "source": "NYT Cooking - The New York Times",
+      "original_width": "1800px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eddbf8915aaa.jpg",
+      "caption": "Colorful vegan sushi rolls on a speckled ceramic plate with fresh vegetables, microgreens, chopsticks, and soy sauce bowl. Suitable for background image.",
+      "source": "The Simple Veganista",
+      "original_width": "1066px",
+      "original_height": "1600px"
+    }
+  ]
+}

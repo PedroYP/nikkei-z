@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "assorted sushi platter on dark slate stone",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bd91952e0f0f.jpg",
+      "caption": "A sushi platter with salmon rolls, maki, wasabi, ginger, chopsticks, and soy sauce; has Alamy watermark, not suitable for background.",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1092px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fc2b4ffb8584.jpg",
+      "caption": "Close-up of assorted sushi—tuna, salmon, shrimp nigiri and sauce-topped rolls—on black slate with soy sauce cup. Contains Alamy watermarks; unsuitable for background.",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f048a03f3a02.jpg",
+      "caption": "Three colorful nigiri sushi pieces on a black slate plate with wasabi and an orange half, clean and vivid. Suitable for background image",
+      "source": "Alibaba.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/79fad8da067b.jpg",
+      "caption": "Overhead flat-lay of assorted sushi, nigiri, soy sauce bowls, chopsticks, wasabi, and ginger rose on slate board; no text or watermarks, high clarity, strong visual impact.",
+      "source": "Moms Who Think",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

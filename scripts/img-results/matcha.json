@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "japanese matcha dessert mochi dark",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0823e07cf681.jpg",
+      "caption": "A packaged Japanese Matcha Mochi snack bag beside a small plate of green mochi, clean product photo. Text includes \"抹茶もち\", \"MATCHA MOCHI\".",
+      "source": "TokyoTreat",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c5690ad30488.jpg",
+      "caption": "A green \"MATCHA MOCHI\" (抹茶もち) box beside dusted mochi on a plate and wrapped candies. Suitable for background image.",
+      "source": "TokyoTreat",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f62514e4134.jpg",
+      "caption": "Three green MOCHIKON matcha mochi product packages shown with a white dish of matcha-dusted mochi dessert.",
+      "source": "Amazon.com",
+      "original_width": "894px",
+      "original_height": "899px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f3e4701e55f8.jpg",
+      "caption": "Two soft Japanese bread buns filled with red bean paste, matcha, and sweet potato, on a wooden board.",
+      "source": "Amazon.com",
+      "original_width": "920px",
+      "original_height": "920px"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "crunchy tempura fried sushi roll close up dark",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c12324b099f3.jpg",
+      "caption": "Crispy fried sushi rolls with avocado and crab filling on a dark plate, high clarity, no watermark, suitable for background image.",
+      "source": "im hungry for that",
+      "original_width": "1000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ff0a1d3fb064.jpg",
+      "caption": "A black plate of deep-fried sushi rolls drizzled with spicy mayo and eel sauce, garnished with green onions. suitable for background image",
+      "source": "Ne's Kitchen",
+      "original_width": "3024px",
+      "original_height": "3770px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8168c9cb04ee.jpg",
+      "caption": "Two sushi rolls topped with avocado slices, sesame seeds, and purple microgreens, filled with sweet potato and diced tomato, on a dark red plate against a white background. No text, watermark, or logos; high clarity and visual appeal.\n\nsuitable for background image",
+      "source": "Very Vegan Val",
+      "original_width": "2560px",
+      "original_height": "1578px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2371e35da936.jpg",
+      "caption": "A sushi roll topped with crispy fried onions and spicy sauce in a blue plastic takeout container with pickled ginger.",
+      "source": "Reddit",
+      "original_width": "1164px",
+      "original_height": "2134px"
+    }
+  ]
+}

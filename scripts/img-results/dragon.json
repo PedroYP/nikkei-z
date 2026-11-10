@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "dragon roll sushi with avocado and eel unagi glaze dark plate",
+  "count": 4,
+  "ranked": true,
+  "captioned_count": 4,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7be88e1ade80.jpg",
+      "caption": "Vibrant eel sushi rolls on a white plate with ginger and wasabi. Contains watermark logo \"YUM YUM COOK\"; not watermark-free, so not suitable for background image.",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aca25eb3bfa0.jpeg",
+      "caption": "A close-up of eel (unagi) sushi roll drizzled with eel sauce on a white plate, served with pickled ginger, wasabi, chopsticks, and a soy sauce bottle in dim lighting. Text on the bottle is partially visible and unclear.",
+      "source": "Reddit",
+      "original_width": "3000px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f6f975d8db70.jpg",
+      "caption": "Soy sauce pouring from a spoon onto avocado sushi rolls on a white plate; no text, no watermarks, high clarity, suitable for background image.",
+      "source": "Simply Quinoa",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a14723e6eadb.jpg",
+      "caption": "Shutterstock advertisement slide with \"We have great content\" text and photo of smiling colleagues; contains watermarks.",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1102px"
+    }
+  ]
+}
