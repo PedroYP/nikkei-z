@@ -9,6 +9,7 @@ import { Anchor, Fish, HeartHandshake, Landmark, ScrollText, Sparkles } from "lu
 import { useViewFx } from "@/lib/anim";
 import { CtaLink, Kicker, Magnetic, Marquee, SectionHeading } from "@/components/site/ui-bits";
 import { SITE, STATS } from "@/lib/data";
+import { assetPath } from "@/lib/assets";
 import { MoveRight } from "lucide-react";
 
 const TIMELINE = [
@@ -115,7 +116,7 @@ export default function AboutView() {
               />
               <div data-reveal="up" className="relative mt-10 aspect-[4/3] overflow-hidden rounded-[2rem]">
                 <Image
-                  src="/images/story/interior.jpg"
+                  src={assetPath("/images/story/interior.jpg")}
                   alt="Interior del bar de SUMI en Miraflores: madera oscura y luz cálida"
                   fill
                   data-parallax="0.1"
@@ -160,7 +161,7 @@ export default function AboutView() {
           <div data-reveal="right" className="relative order-2 lg:order-1">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2.5rem]">
               <Image
-                src="/images/story/chef.jpg"
+                src={assetPath("/images/story/chef.jpg")}
                 alt="Chef Dani Oshiro enrollando maki sobre tapete de bambú en la cocina de SUMI"
                 fill
                 data-parallax="0.12"

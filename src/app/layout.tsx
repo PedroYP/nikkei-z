@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Cormorant_Garamond, Manrope, Noto_Serif_JP } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
+import { assetPath } from "@/lib/assets";
 
 const cormorant = Cormorant_Garamond({
   variable: "--font-cormorant",
@@ -31,7 +32,7 @@ export const metadata: Metadata = {
     "Makis de autor con técnica japonesa y alma nikkei. Arroz en punto, pescado del día al Callao y salsas de la casa. Delivery en Lima o recógelo en Miraflores.",
   keywords: ["makis", "sushi", "nikkei", "Lima", "delivery", "Miraflores", "comida japonesa"],
   authors: [{ name: "SUMI Maki & Nikkei Bar" }],
-  icons: { icon: "/favicon.svg" },
+  icons: { icon: assetPath("/favicon.svg") },
   openGraph: {
     title: "SUMI · Maki & Nikkei Bar — Lima",
     description: "El arte del maki, alma nikkei. Makis de autor en Miraflores, Lima.",

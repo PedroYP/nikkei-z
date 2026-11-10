@@ -3,6 +3,8 @@
    Carta nikkei de autor · Lima, Perú
    ============================================================ */
 
+import { assetPath } from "@/lib/assets";
+
 export type CategoryId =
   | "clasico"
   | "especial"
@@ -62,7 +64,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Salmón", "Queso crema", "Palta", "Sésamo"],
     spice: 0,
     badges: ["bestseller"],
-    image: "/images/products/philadelphia.jpg",
+    image: assetPath("/images/products/philadelphia.jpg"),
     featured: true,
     rating: 4.9,
   },
@@ -78,7 +80,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Kanikama", "Palta", "Quinua crocante", "Mayonesa japonesa"],
     spice: 0,
     badges: [],
-    image: "/images/products/california.jpg",
+    image: assetPath("/images/products/california.jpg"),
     rating: 4.7,
   },
   {
@@ -93,7 +95,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Salmón", "Langostino crocante", "Salsa acevichada", "Leche de tigre", "Ají limo"],
     spice: 2,
     badges: ["bestseller", "picante"],
-    image: "/images/products/acevichado.jpg",
+    image: assetPath("/images/products/acevichado.jpg"),
     featured: true,
     rating: 5.0,
   },
@@ -109,7 +111,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Kanikama tempurizado", "Pepino", "Panko", "Salsa teriyaki suave"],
     spice: 0,
     badges: [],
-    image: "/images/products/california.jpg",
+    image: assetPath("/images/products/california.jpg"),
     rating: 4.6,
   },
 
@@ -126,7 +128,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Langostino tempura", "Palta", "Glaseado unagi", "Mayonesa flameada", "Masago"],
     spice: 0,
     badges: ["bestseller"],
-    image: "/images/products/dragon.jpg",
+    image: assetPath("/images/products/dragon.jpg"),
     featured: true,
     rating: 4.9,
   },
@@ -142,7 +144,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Salmón", "Atún", "Hamachi", "Palta", "Queso crema"],
     spice: 0,
     badges: [],
-    image: "/images/products/rainbow.jpg",
+    image: assetPath("/images/products/rainbow.jpg"),
     featured: true,
     rating: 4.8,
   },
@@ -158,7 +160,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Atún", "Leche de tigre", "Camote crocante", "Ají limo", "Culantro"],
     spice: 2,
     badges: ["nuevo", "picante"],
-    image: "/images/products/acevichado.jpg",
+    image: assetPath("/images/products/acevichado.jpg"),
     featured: true,
     rating: 4.9,
   },
@@ -174,7 +176,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Salmón del día", "Arroz avinagrado", "Wasabi fresco", "Salsa nikiri"],
     spice: 0,
     badges: [],
-    image: "/images/products/nigiri.jpg",
+    image: assetPath("/images/products/nigiri.jpg"),
     rating: 4.8,
   },
 
@@ -191,7 +193,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Arroz crocante", "Salmón", "Sésamo negro", "Mayonesa acebichada", "Cebolla china"],
     spice: 1,
     badges: ["bestseller"],
-    image: "/images/products/furikake.jpg",
+    image: assetPath("/images/products/furikake.jpg"),
     featured: true,
     rating: 4.9,
   },
@@ -207,7 +209,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Arroz crocante", "Salmón", "Langostino", "Salsa acevichada", "Leche de tigre"],
     spice: 2,
     badges: ["nuevo", "picante"],
-    image: "/images/products/furikake.jpg",
+    image: assetPath("/images/products/furikake.jpg"),
     rating: 4.9,
   },
 
@@ -224,7 +226,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Philadelphia", "Masa tempura", "Salsa acebichada", "Sésamo"],
     spice: 1,
     badges: ["bestseller"],
-    image: "/images/products/tempura.jpg",
+    image: assetPath("/images/products/tempura.jpg"),
     rating: 4.8,
   },
   {
@@ -239,7 +241,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Langostino tempura", "Pepino japonés", "Panko", "Mayonesa yuzu"],
     spice: 0,
     badges: [],
-    image: "/images/products/tempura.jpg",
+    image: assetPath("/images/products/tempura.jpg"),
     rating: 4.7,
   },
 
@@ -256,7 +258,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Palta", "Mango", "Pepino", "Espárrago", "Aceite de sésamo"],
     spice: 0,
     badges: ["veggie"],
-    image: "/images/products/veggie.jpg",
+    image: assetPath("/images/products/veggie.jpg"),
     rating: 4.6,
   },
   {
@@ -271,7 +273,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Arroz crocante", "Palta", "Mango", "Sésamo negro", "Mayonesa de miso"],
     spice: 0,
     badges: ["veggie", "nuevo"],
-    image: "/images/products/veggie.jpg",
+    image: assetPath("/images/products/veggie.jpg"),
     rating: 4.7,
   },
 
@@ -288,7 +290,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Lúcuma", "Crema pastelera", "Miel de caña"],
     spice: 0,
     badges: [],
-    image: "/images/products/dorayaki.jpg",
+    image: assetPath("/images/products/dorayaki.jpg"),
     rating: 4.8,
   },
   {
@@ -303,7 +305,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Matcha Uji", "Queso crema", "Azúcar moscabado"],
     spice: 0,
     badges: ["bestseller"],
-    image: "/images/products/matcha.jpg",
+    image: assetPath("/images/products/matcha.jpg"),
     rating: 4.9,
   },
 
@@ -320,7 +322,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Maíz morado", "Piña", "Canela", "Clavo de olor", "Lima"],
     spice: 0,
     badges: ["bestseller"],
-    image: "/images/products/chicha.jpg",
+    image: assetPath("/images/products/chicha.jpg"),
     rating: 4.9,
   },
   {
@@ -335,7 +337,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Maracuyá", "Hierbabuena", "Jengibre", "Agua de coco"],
     spice: 0,
     badges: [],
-    image: "/images/products/maracuya.jpg",
+    image: assetPath("/images/products/maracuya.jpg"),
     rating: 4.7,
   },
 
@@ -353,7 +355,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["2× Philadelphia", "2× Acevichado", "Chicha morada 500 ml"],
     spice: 1,
     badges: ["bestseller"],
-    image: "/images/products/platter.jpg",
+    image: assetPath("/images/products/platter.jpg"),
     featured: true,
     rating: 4.9,
   },
@@ -370,7 +372,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["4× Philadelphia", "4× Acevichado", "2× Dragon", "2× Furikake Sake", "Bebida 1.5 L"],
     spice: 1,
     badges: ["bestseller"],
-    image: "/images/products/platter.jpg",
+    image: assetPath("/images/products/platter.jpg"),
     rating: 4.9,
   },
   {
@@ -386,7 +388,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["2× Nikkei Roll", "2× Furikake Sake", "2× Tempurizado", "Dorayaki de regalo"],
     spice: 1,
     badges: ["nuevo"],
-    image: "/images/products/platter.jpg",
+    image: assetPath("/images/products/platter.jpg"),
     rating: 4.8,
   },
 ];

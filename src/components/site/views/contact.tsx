@@ -24,6 +24,7 @@ import {
 } from "@/components/ui/accordion";
 import { toast } from "@/hooks/use-toast";
 import { SITE } from "@/lib/data";
+import { assetPath } from "@/lib/assets";
 import { useViewFx } from "@/lib/anim";
 import { CtaLink, Kicker, SectionHeading } from "@/components/site/ui-bits";
 import { cn } from "@/lib/utils";
@@ -202,7 +203,7 @@ export default function ContactView() {
         <div className="mt-6 grid gap-6 lg:grid-cols-[1.4fr_1fr]">
           <div data-reveal="up" className="relative min-h-72 overflow-hidden rounded-[2rem]">
             <Image
-              src="/images/story/lima.jpg"
+              src={assetPath("/images/story/lima.jpg")}
               alt="Malecón de Miraflores, Lima, al atardecer — casa de SUMI"
               fill
               data-parallax="0.1"

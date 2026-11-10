@@ -17,6 +17,7 @@ import {
   Quote,
 } from "lucide-react";
 import { PRODUCTS, STATS, TESTIMONIALS, SITE } from "@/lib/data";
+import { assetPath } from "@/lib/assets";
 import { useRouter } from "@/lib/router";
 import {
   gsap,
@@ -169,7 +170,7 @@ export default function HomeView() {
       >
         {/* Canvas 3D */}
         <div className="hero-canvas hero-el absolute inset-x-0 top-[38%] bottom-[-6%] opacity-60 lg:inset-0 lg:top-0 lg:bottom-0 lg:left-[30%] lg:opacity-100">
-          <Maki3D fallbackImage="/images/hero-fallback.jpg" />
+          <Maki3D fallbackImage={assetPath("/images/hero-fallback.jpg")} />
         </div>
         {/* Viñeta para legibilidad */}
         <div
@@ -373,7 +374,7 @@ export default function HomeView() {
           <div data-reveal="left" className="relative">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2.5rem] sm:aspect-[5/5]">
               <Image
-                src="/images/story/chef.jpg"
+                src={assetPath("/images/story/chef.jpg")}
                 alt="Manos del chef Itoshi enrollando un maki sobre tapete de bambú"
                 fill
                 data-parallax="0.12"
@@ -564,7 +565,7 @@ export default function HomeView() {
       {/* ==================== BANNER PARALLAX ==================== */}
       <section aria-label="Frase de la casa" className="relative h-[64vh] overflow-hidden lg:h-[80vh]">
         <Image
-          src="/images/story/chopsticks.jpg"
+          src={assetPath("/images/story/chopsticks.jpg")}
           alt="Palillos tomando un maki de salmón sobre fondo oscuro"
           fill
           data-parallax="0.16"
